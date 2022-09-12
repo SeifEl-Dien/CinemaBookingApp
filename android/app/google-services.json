@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "491842011117",
+    "project_id": "cinemabookingapp-1aa01",
+    "storage_bucket": "cinemabookingapp-1aa01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491842011117:android:85d99ab6bff0b8281b71e4",
+        "android_client_info": {
+          "package_name": "com.example.cinemabookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491842011117-dp1mcj2cj89d9hm9bn98bga50c9kf7l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cinemabookingapp",
+            "certificate_hash": "b017afc2c8940f4e1002c1ceaa2fc629999c0ea7"
+          }
+        },
+        {
+          "client_id": "491842011117-bksq5uutfhljn7qd3bfq4toe87grho51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgftikCDnr1ixexad4PGyhYuyCHxL-Fv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491842011117-bksq5uutfhljn7qd3bfq4toe87grho51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
