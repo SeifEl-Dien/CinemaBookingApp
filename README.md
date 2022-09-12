@@ -1,16 +1,9 @@
-# cinemabookingapp
+# CinemaBookingApp
 
-A new Flutter project.
+![111](https://user-images.githubusercontent.com/113269509/189561756-a6199082-6ebd-4cf3-9534-c86dd5a8ed70.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![222](https://user-images.githubusercontent.com/113269509/189561764-ba31c283-bc50-4f2c-a1e9-2bb5426baca4.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![333](https://user-images.githubusercontent.com/113269509/189561767-5cfc0dde-c451-40be-9d28-c399d0f00dbc.jpg)
